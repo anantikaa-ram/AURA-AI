@@ -137,6 +137,6 @@ AURA-AI
 
 # Author
 
-**Ramesh Ganapathy**
+**Anantikaa Ramesh **
 
 Built as part of the **Kaggle AI Agents: Intensive Vibe Coding Capstone Project with Google**.
